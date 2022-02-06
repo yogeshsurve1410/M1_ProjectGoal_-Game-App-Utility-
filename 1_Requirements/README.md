@@ -10,3 +10,12 @@ INTRODUCTION :
 * Years are classified as normal years of 365 days and leap years of 366 days. Leap years occur in years that are evenly divisible by 4.Years that are divisible by 100 (century     years such as 1900 or 2000) cannot be leap years unless they are also divisible by 400.
 * The 365 days are divided into 12 months i.e. January, February, March, April, May, June, July, August, September, October, November, and December.
 * This is a basic calendar program created using simple c program, using this program you can navigate year or month using the arrow key of your keyboard.
+
+
+High Level Requirements
+=======================
+ID	Description	Category
+HLR01	User should able to view day,date,month,year list	technical
+HLR02	User should able to select the date	technical
+HLR03	The system sould able perform the given operation	technical
+HLR04	The system should provide correct result	technical
