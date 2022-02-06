@@ -11,6 +11,8 @@ INTRODUCTION :
 * The 365 days are divided into 12 months i.e. January, February, March, April, May, June, July, August, September, October, November, and December.
 * This is a basic calendar program created using simple c program, using this program you can navigate year or month using the arrow key of your keyboard.
 
+Requirements:
+=============
 
 High Level Requirements
 =======================
@@ -23,6 +25,9 @@ High Level Requirements
 | HLR05 | User should able to exit enter his choice | Technical  |
 | HLR06 | System should able to get day,date,month,year | Technical  | 
 | HLR07 | System should able to provide correct results | Technical  |
+
+
+
 
 
 Low Level Requirements :
@@ -40,6 +45,9 @@ Low Level Requirements :
 | LLR09 | Functions to printMonth | Yet not implemented  |
 | LLR10 | Functions to AddNote |  Yet not implemented | 
 | LLR11 | Functions to showNote | Yet not implemented  |
+
+
+
 
 
 
@@ -62,6 +70,14 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 THREATS
 ============
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
+
+
+
+
+
+
+
 
 
 
