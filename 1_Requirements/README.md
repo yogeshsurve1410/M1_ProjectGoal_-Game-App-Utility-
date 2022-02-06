@@ -16,14 +16,46 @@ High Level Requirements
 =======================
 | ID    | Description | Category  | 
 | -------|------------|-----------|
-| HLR01 | user should able to view day,date,month,year  | Technical  |
-| HLR02 | user should able to add note  | Technical  |  
-| HLR03 | user should able to show note | Technical  | 
-| HLR04 | user should able to find out the day,date,month,year  | Technical  | 
-| HLR05 | user should able to exit enter his choice | Technical  |
+| HLR01 | User should able to view day,date,month,year  | Technical  |
+| HLR02 | User should able to add note  | Technical  |  
+| HLR03 | User should able to show note | Technical  | 
+| HLR04 | User should able to find out the day,date,month,year  | Technical  | 
+| HLR05 | User should able to exit enter his choice | Technical  |
 | HLR06 | System should able to get day,date,month,year | Technical  | 
 | HLR07 | System should able to provide correct results | Technical  |
 
 
 Low Level Requirements
 =======================
+| ID    | Description | Category  |
+| ------| ----------- |-----------| 
+| LLR01 | user should able to view day,date,month,year  | Technical  |
+| LLR02 | user should able to add note  | Technical  |  
+| LLR03 | user should able to show note | Technical  | 
+| LLR04 | user should able to find out the day,date,month,year  | Technical  | 
+| LLR05 | user should able to exit enter his choice | Technical  |
+| LLR06 | System should able to get day,date,month,year | Technical  | 
+| LLR07 | System should able to provide correct results | Technical  |
+
+
+
+
+
+Swot Analysis:
+=============
+
+STRENGTHS
+===========
+The ultimate strength of Calendar is its innovative,more work ability,user-friendly and long lasting etc..
+
+WEAKNESSES
+===========
+do not add same event on same day.
+
+OPPORTUNITIES
+==============
+The tech-based market has a huge opportunities in capturing the youth market. And this calendar comparatively already one step ahead than other
+
+THREATS
+============
+The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
