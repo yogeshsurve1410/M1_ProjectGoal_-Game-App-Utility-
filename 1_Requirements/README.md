@@ -61,7 +61,7 @@ The ultimate strength of Calendar is its innovative,more work ability,user-frien
 
 WEAKNESSES
 ===========
-do not add same event on same day.
+do not add same eventnote on same day.
 
 OPPORTUNITIES
 ==============
