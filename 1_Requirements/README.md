@@ -23,3 +23,7 @@ High Level Requirements
 | HLR05 | user should able to exit enter his choice | Technical  |
 | HLR06 | System should able to get day,date,month,year | Technical  | 
 | HLR07 | System should able to provide correct results | Technical  |
+
+
+Low Level Requirements
+=======================
