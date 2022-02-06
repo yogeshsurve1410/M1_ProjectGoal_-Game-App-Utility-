@@ -1,4 +1,4 @@
-CALENDAR APP
+# CALENDAR APP
 =============
 
 INTRODUCTION :
@@ -25,7 +25,7 @@ High Level Requirements
 | HLR07 | System should able to provide correct results | Technical  |
 
 
-Low Level Requirements
+Low Level Requirements :
 =======================
 | ID    | Description | Category  |
 | ------| ----------- |-----------| 
@@ -41,7 +41,7 @@ Low Level Requirements
 
 
 
-Swot Analysis:
+SWOT Analysis :
 =============
 
 STRENGTHS
