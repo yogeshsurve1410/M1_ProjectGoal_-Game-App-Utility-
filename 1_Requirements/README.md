@@ -15,6 +15,7 @@ INTRODUCTION :
 High Level Requirements
 =======================
 | ID    | Description | Category  | 
+| -------|------------|-----------|
 | HLR01 | user should able to view day,date,month,year  | Technical  |
 | HLR02 | user should able to add note  | Technical  |  
 | HLR03 | user should able to show note | Technical  | 
