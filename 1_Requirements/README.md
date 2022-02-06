@@ -14,8 +14,14 @@ INTRODUCTION :
 
 High Level Requirements
 =======================
-ID	Description	Category
-HLR01	User should able to view day,date,month,year list	technical
-HLR02	User should able to select the date	technical
-HLR03	The system sould able perform the given operation	technical
-HLR04	The system should provide correct result	technical
+| ID    | Description | Category  |
+| ------| ----------- |-------------- | 
+| HLR01 | user should able to view day,date,month,year  | Technical  |
+| HLR02 | user should able to add note  | Technical  | 
+| ------------- | ------------- | ------------- | 
+| HLR03 | user should able to show note | Technical  | 
+| HLR04 | user should able to find out the day,date,month,year  | Technical  | 
+| ------------- | ------------- | ------------- |
+| HLR05 | user should able to exit enter his choice | Technical  |
+| HLR06 | System should able to get day,date,month,year | Technical  | 
+| HLR07 | System should able to provide correct results | Technical  |
