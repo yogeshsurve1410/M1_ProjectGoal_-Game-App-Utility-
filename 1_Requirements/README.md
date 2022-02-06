@@ -69,16 +69,21 @@ The slower growth in technological innovation will also bring a significant thre
 4W's and 1'H
 =============
 Who:
+======
 The project can be used almost by all people.At the end,user satisfaction is the goal of the project.
 
 What:
+======
 Adding eventnote, deleting eventnote, show eventnote & viewing day,date,month,year and searching of day,date,month,year can be done by this Application.
 
 When:
+======
 The project can be used when to create eventnote, deleting eventnote & viewing day,date,month,year.
 
 Where:
+=====
 The Calendar is essential for all purpose and for all schools, colleges, private libraries, and other organizations. They can use this software as the purpose of adding notes, view dates,day,months
 
 How:
-  It is a takes input from the system. Here UML diagrams are used to supplement the working of this application. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
+======
+It is a takes input from the system. Here UML diagrams are used to supplement the working of this application. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
