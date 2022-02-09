@@ -11,6 +11,15 @@ INTRODUCTION :
 * The 365 days are divided into 12 months i.e. January, February, March, April, May, June, July, August, September, October, November, and December.
 * This is a basic calendar program created using simple c program, using this program you can navigate year or month using the arrow key of your keyboard.
 
+
+# RESEARCH :
+https://www.codeproject.com/Articles/783307/Calendar-using-C-Programming-language
+
+https://itsourcecode.com/free-projects/c-projects/calendar-in-c-programming-with-source-code/
+
+https://followtutorials.com/2011/09/mini-project-calendar-application-using.html
+
+
 Requirements:
 =============
 
