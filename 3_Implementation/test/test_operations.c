@@ -95,15 +95,15 @@ void test_division(){
 TEST_ASSERT_EQUAL(5, division(100, 20));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(15, addition(75, 5));
+  TEST_ASSERT_EQUAL(15, division(75, 5));
 }
 
 void test_mod(void){
 
-TEST_ASSERT_EQUAL(10, addition(110, 10));
+TEST_ASSERT_EQUAL(10, mod(110, 10));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(100, addition(7545, 75));
+  TEST_ASSERT_EQUAL(100, mod(7545, 75));
 }
 
 void test_factorial(void){
@@ -224,15 +224,15 @@ void test_ncr(void){
 TEST_ASSERT_EQUAL(6, ncr(4, 2));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, (8, 8));
+  TEST_ASSERT_EQUAL(1, ncr(8, 8));
 
 }
 
 void test_clear(void){
-TEST_ASSERT_EQUAL(0, (0,0));
+TEST_ASSERT_EQUAL(0, clear(0,0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(0, (0, 0));
+  TEST_ASSERT_EQUAL(0, clear(0, 0));
 
 }
 
