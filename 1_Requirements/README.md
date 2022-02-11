@@ -103,7 +103,7 @@ The project can be used when to calculate many operatios related to basic arthim
 
 Where:
 =====
-The Calendar is essential for all purpose and for all schools, colleges, private libraries, and other organizations. They can use this software as the purpose of adding notes, view dates,day,months
+The Calculator is essential for all purpose and for all schools, colleges, private libraries, and other organizations. They can use this software as the purpose of calculations.
 
 How:
 ======
