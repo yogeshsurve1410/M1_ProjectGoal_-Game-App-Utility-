@@ -16,6 +16,12 @@ https://docplayer.net/12070158-Calculator-introduction-requirements-design-the-c
 
 https://github.com/tanyagupta0201/Scientific-Calculator-in-C/blob/main/CALCI.c  
 
+https://www.programiz.com/c-programming/examples/calculator-switch-case
+
+https://www.knowprogram.com/c-programming/simple-calculator-program-c
+
+The switch-case statement is used to write a simple calculator program in C language. The remainder operator % is normally used with data values. To print the remainder operator %% is used in the first printf() function. The variable ch store the operator, similarly the variables num1, and num2 stores the two numbers. The switch has condition “ch” so the entered operator is matched with which case label those case label statements are executed, and display result to the screen. If the entered operator is not matched with the case labels then the default statement will be executed and it will display the message “Error! Invalid Operator.” to the screen
+
 
 Requirements:
 =============
@@ -29,8 +35,8 @@ High Level Requirements
 | HLR03 | User should able to calculate inverse trignometric calculations | Technical  | 
 | HLR04 | User should able to calculate logrithimic calculations | Technical  | 
 | HLR05 | User should able to exit enter his choice | Technical  |
-| HLR06 | System should able to calculate power,factoiral,mod | Technical  | 
-| HLR07 | System should able to find roots  | Technical  |
+| HLR06 | User should able to calculate power,factoiral,mod | Technical  | 
+| HLR07 | User should able to find roots  | Technical  |
 
 
 
