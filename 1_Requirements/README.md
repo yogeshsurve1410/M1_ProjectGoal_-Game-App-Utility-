@@ -35,8 +35,8 @@ High Level Requirements
 | HLR03 | User should able to calculate inverse trignometric calculations | Technical  | 
 | HLR04 | User should able to calculate logrithimic calculations | Technical  | 
 | HLR05 | User should able to exit enter his choice | Technical  |
-| HLR06 | System should able to calculate power,factoiral,mod | Technical  | 
-| HLR07 | System should able to find roots  | Technical  |
+| HLR06 | User should able to calculate power,factoiral,mod | Technical  | 
+| HLR07 | User should able to find roots  | Technical  |
 
 
 
