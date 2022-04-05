@@ -67,7 +67,7 @@ SWOT Analysis :
 
 STRENGTHS
 ===========
-The ultimate strength of Calculator is its innovative,more work ability,user-friendly and long lasting etc..
+The ultimate strength of clock is its innovative,more work ability,user-friendly and long lasting etc..
 
 WEAKNESSES
 ===========
